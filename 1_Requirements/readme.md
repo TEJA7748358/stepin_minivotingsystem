@@ -77,12 +77,15 @@
   People who has the right to vote can use this system. Initially they need to register and then login with the guven credentials. After that the options of nomines is shown on screen, voters can cast their vote with the provided options and need to click on submit. This is how the process is done for casting the vote.
   
 # HIGH LEVEL REQUIREMENTS: 
-
-  1. User’s login credentials.
-User should caste the vote.
-Records should be saved in a database in the form of a file.
-Data should not be lost in case of failure Scenario.
-Admin could access the website.
-# LOW LEVEL REQUIREMENTS:
-Data should always be stored before closing the system.
-User shall be able to work on previous data.
+| **HLR SNO:**| **DESCRIPTION**|**STATUS (IMPLEMENTED/ FUTURE)**|
+|-----|------|------|
+| HLR_1|User should register in website| Implemented|
+| HLR_2|User should able to logon to website| Implemented|
+| HLR_3|Records should be saves in a database in the form of a file| Implemented|
+| HLR_4|Data should not be lost in case of failure scenario|Implemented|
+| HLR_5|Admin could access the website to read the data of cloud| Implemented|
+## LOW LEVEL REQUIREMENTS:
+| **LLR SNO:**| **DESCRIPTION**| **STATUS (IMPLEMENTED/ FUTURE)**|
+|-----|-----|----|
+| LLR_1|Data should always be stored before closing the system| Implemented|
+| LLR_2|User shall be able to work on previous data| Implemented|
