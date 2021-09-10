@@ -15,13 +15,13 @@
 ## COST:
   This project needs less cost to implement. So this adds more advantage to project in implementation.
 ## FEATURES:
-  1. People can vote through online with the given credentials.
-  2. Time saving and need not to wait long time to vote.
-  3. Portable so that we can cast our vote from anywhere.
-  4. Very secured.
-  5. Data of each vote can be recorded and stored in cloud this is done for future refference.
-  6. No crosstalks allowed.
-  7. At the time of casting end-to-end encryption takes place.
+  * People can vote through online with the given credentials.
+  * Time saving and need not to wait long time to vote.
+  * Portable so that we can cast our vote from anywhere.
+  * Very secured.
+  * Data of each vote can be recorded and stored in cloud this is done for future refference.
+  * No crosstalks allowed.
+  * At the time of casting end-to-end encryption takes place.
 ## TIMELINE:
   Timeline generally refers that how exactly the time taken for process of work. Here is the attachment shown that how well the process is taken place.
 ![timeline](https://user-images.githubusercontent.com/89760551/132465765-abdc2183-e84f-4816-8b86-9f9a9d518b20.jpg)
@@ -33,49 +33,51 @@
 
 # SWOT ANALYSIS:
 ## STRENGTHS: 
-  1. Rapid voting count and no regulation.
-  2. Accuracy of results.
-  3. Redundancy at human intervention.
-  4. Can vote anywhere i.e., portable.
-  5. Saves time of counting.
+  * Rapid voting count and no regulation.
+  * Accuracy of results.
+  * Redundancy at human intervention.
+  * Can vote anywhere i.e., portable.
+  * Saves time of counting.
 ## WEAKNESS:
-  1. Lack of transparent policy.
-  2. Infrastructure and environmental.
-  3. Very sensitive.
-  4. Gap in experience, knowledge for non experts.
-  5. Needs high data.
-  6. Difficult incase of lack of signal.
+  * Lack of transparent policy.
+  * Infrastructure and environmental.
+  * Very sensitive.
+  * Gap in experience, knowledge for non experts.
+  * Needs high data.
+  * Difficult incase of lack of signal.
 ## OPPORTUNITIES:
-  1. Increased convenience for voters.
-  2. More focused at technology and innovation.
-  3. No shipping costs for clients/voters.
-  4. No delay in sending out material and receive back.
+  * Increased convenience for voters.
+  *  More focused at technology and innovation.
+  * No shipping costs for clients/voters.
+  * No delay in sending out material and receive back.
 ## THREATS:
-  1. Privilege escalation by insiders.
-  2. Security Requirements for protection are at transport, storage.
-  3. Possibility of fraud through manipulation by small group of insiders.
+  * Privilege escalation by insiders.
+  * Security Requirements for protection are at transport, storage.
+  * Possibility of fraud through manipulation by small group of insiders.
  
  ![swot analysis](https://user-images.githubusercontent.com/89760551/132471655-6b9a7e79-34a8-4137-9416-086be150bb47.jpg)
 
 # 4W'S AND 1'H:
 ## WHO:
-  1. General people can cast the vote through voting system during elections.
-  2. Students at the time of polls in their college. 
-  3. At organisations for online poll submissions. 
-  4. For counting the majority in elections.
+  * General people can cast the vote through voting system during elections.
+  * Students at the time of polls in their college. 
+  * At organisations for online poll submissions. 
+  * For counting the majority in elections.
 ## WHAT:
-  1. It casts the vote of every general and keeps the counting of each record and saves the data which is submitted.
-  2. Makes results easy to declare based on count.
+  * It casts the vote of every general and keeps the counting of each record and saves the data which is submitted.
+  * Makes results easy to declare based on count.
 ## WHEN:
-  1. During elections.
-  2. When polls are been conducted.
+  * During elections.
+  * When polls are been conducted.
 ## WHERE:
-  1. This system is set up at government offices where people can caast their vote.
-  2. At organisations to conduct the polls
+  * This system is set up at government offices where people can caast their vote.
+  * At organisations to conduct the polls
 ## HOW: 
+
   People who has the right to vote can use this system. Initially they need to register and then login with the guven credentials. After that the options of nomines is shown on screen, voters can cast their vote with the provided options and need to click on submit. This is how the process is done for casting the vote.
   
 # HIGH LEVEL REQUIREMENTS: 
+
   1. User’s login credentials.
 User should caste the vote.
 Records should be saved in a database in the form of a file.
