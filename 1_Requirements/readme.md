@@ -66,6 +66,14 @@
 ## WHAT:
   1. It casts the vote of every general and keeps the counting of each record and saves the data which is submitted.
   2. Makes results easy to declare based on count.
+## WHEN:
+  1. During elections.
+  2. When polls are been conducted.
+## WHERE:
+  1. This system is set up at government offices where people can caast their vote.
+  2. At organisations to conduct the polls
+## HOW: 
+  People who has the right to vote can use this system. Initially they need to register and then login with the guven credentials. After that the options of nomines is shown on screen, voters can cast their vote with the provided options and need to click on submit. This is how the process is done for casting the vote.
   
 # HIGH LEVEL REQUIREMENTS: 
   1. User’s login credentials.
